@@ -26,7 +26,7 @@ body {
 }
 
 .rotate {
-    animation: spin 10s linear infinite;
+    animation: spin .4s linear infinite;
 }
 
 @keyframes spin {
